@@ -1,6 +1,3 @@
-# asibot
-Bot for plug.dj
-
 (function () {
 
     //Define our function responsible for extending the bot.
